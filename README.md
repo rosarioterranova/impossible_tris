@@ -1,7 +1,7 @@
-##Description
+# Description
 Impossible Tris is the first vide game that i made for mobile. It is a porting of the classic game tic-tac-toe but with a particular algorithm created by me that makes (almost) impossible to win.
 
-##Info
+# Info
 - **Name**: Impossible Tris
 - **Platform**: Windows Phone
 - **Game Engine**: Blend for Visual Studio
